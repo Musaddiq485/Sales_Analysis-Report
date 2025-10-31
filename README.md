@@ -13,7 +13,7 @@ It provides actionable insights for business decision-making, helping identify p
 ---
 
 ## 🖼️ Dashboard Preview  
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](https://github.com/Musaddiq485/sales_analysis-report/blob/1f5742bbe8ad8a88c1128acc801557046e08d395/Screenshot%202025-10-31%20172643.png)
 
 ---
 
